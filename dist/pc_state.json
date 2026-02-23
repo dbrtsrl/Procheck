@@ -1,0 +1,72 @@
+{
+  "tasks": {
+    "Deep wor": {
+      "interval_min": 10,
+      "yes_streak": 0,
+      "color": "#dfe8ff"
+    },
+    "Deep wo": {
+      "interval_min": 10,
+      "yes_streak": 0,
+      "color": "#dfe8ff"
+    },
+    "Deep w": {
+      "interval_min": 10,
+      "yes_streak": 0,
+      "color": "#dfe8ff"
+    },
+    "Deep": {
+      "interval_min": 10,
+      "yes_streak": 0,
+      "color": "#dfe8ff"
+    },
+    "Dee": {
+      "interval_min": 10,
+      "yes_streak": 0,
+      "color": "#dfe8ff"
+    },
+    "De": {
+      "interval_min": 10,
+      "yes_streak": 0,
+      "color": "#dfe8ff"
+    },
+    "D": {
+      "interval_min": 10,
+      "yes_streak": 0,
+      "color": "#dfe8ff"
+    },
+    "a": {
+      "interval_min": 10,
+      "yes_streak": 0,
+      "color": "#dfe8ff"
+    },
+    "ap": {
+      "interval_min": 10,
+      "yes_streak": 0,
+      "color": "#dfe8ff"
+    },
+    "app": {
+      "interval_min": 10,
+      "yes_streak": 0,
+      "color": "#dfe8ff"
+    },
+    "app d": {
+      "interval_min": 10,
+      "yes_streak": 0,
+      "color": "#dfe8ff"
+    },
+    "app de": {
+      "interval_min": 10,
+      "yes_streak": 0,
+      "color": "#dfe8ff"
+    },
+    "app dev": {
+      "interval_min": 10,
+      "yes_streak": 1,
+      "color": "#ff80c0"
+    }
+  },
+  "ui": {
+    "mode": "Light"
+  }
+}
